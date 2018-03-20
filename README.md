@@ -3,6 +3,9 @@
 I'm trying to use Circe auto derivation for a case class.
 I'd expect the code to compile under both versions of Scala, but it does not with 2.12.5
 
+Using Java 9 (or 10).
+
+_Workaround:_ use Java 8.
 
 
 # With Scala Version 2.12.5
